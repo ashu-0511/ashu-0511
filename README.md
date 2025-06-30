@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ashutosh Narula</h1>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<!--
-**ashu-0511/ashu-0511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **AI Agents and MERN stack projects**
+- 🌱 I’m currently learning **Advanced React and Prompt Engineering**
+- 👨‍💻 All of my projects are available at [Portfolio](https://your-portfolio-link.com)
+- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/ashutosh-narula-15a638269/)
+- 📫 How to reach me: **narulaashutosh814@gmail.com**
+- 💬 Ask me about **React, JavaScript, Tailwind CSS, AI agents**
+- ⚡ Fun fact: **I love turning memes into code and logic into laughter.**
 
-Here are some ideas to get you started:
+### 🛠️ Languages and Tools:
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashu-0511&show_icons=true&theme=radical)
+
+### 🧠 Top Skills
+- ReactJS, Tailwind CSS
+- Node.js, Express
+- MongoDB
+- AI Prompt Engineering & Automation Agents
+
+---
